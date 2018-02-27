@@ -50,12 +50,18 @@
 实例见readme.md的源代码
 
 2. 书写公式
-  \$a^2$  $a^2$
-  \$a_2$  $a_2$
-  \$\sqrt{a}$ $\sqrt{a}$
-  \$\frac{1}{2}$ $\frac{1}{2}$
+  \$a^2$  
+  $a^2$
+  \$a_2$  
+  $a_2$
+  \$\sqrt{a}$ 
+  $\sqrt{a}$
+  \$\frac{1}{2}$ 
+  $\frac{1}{2}$
+  
 3.超链接
- \[文字]\(地址)
+
+格式: \[文字]\(地址)
  
  
  \[湍流]\( https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/picture/tuanliu.jpg?raw=true )
