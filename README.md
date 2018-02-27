@@ -29,23 +29,43 @@
 ### 作业列表
 所有作业都列在[Exercises.md](Exercises.md)里面
 
-## markdown简介
+## markdown示例
 
  markdown是简化版的LaTeX!
  
 1.用markdown写标题
  
  \# 一级标题 
+ 
  \## 二级标题
+ 
  \### 三级标题
+ 
  \#### 四级标题
+ 
   # 一级标题 
   ## 二级标题
   ### 三级标题
   #### 四级标题
 实例见readme.md的源代码
 
-2. 
+2. 书写公式
+  \$a^2$  $a^2$
+  \$a_2$  $a_2$
+  \$\sqrt{a}$ $\sqrt{a}$
+  \$\frac{1}{2}$ $\frac{1}{2}$
+3.超链接
+ \[文字]\(地址)
+ 
+ 
+ \[github]\(https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=github&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&cs=3242651622,884328141&os=559736040,3126757382&simid=3366753286,110745511&pn=0&rn=1&di=134575017390&ln=1927&fr=&fmq=1519715036652_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg&rpstart=0&rpnum=0&adpicid=0)
+ 
+ [github](https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=github&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&cs=3242651622,884328141&os=559736040,3126757382&simid=3366753286,110745511&pn=0&rn=1&di=134575017390&ln=1927&fr=&fmq=1519715036652_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg&rpstart=0&rpnum=0&adpicid=0)
+ 
+如果是图片或者视频的话, 在前面加一个!就可以在线显示
+![github](https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=github&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&cs=3242651622,884328141&os=559736040,3126757382&simid=3366753286,110745511&pn=0&rn=1&di=134575017390&ln=1927&fr=&fmq=1519715036652_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg&rpstart=0&rpnum=0&adpicid=0)
+ 
+**更多乐趣请自己发现!!!! **
 ## 一点建议
 - 作业要写得让自己感觉到优美. 
 - 我不会以作业的长短论**英雄**.
