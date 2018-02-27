@@ -58,12 +58,12 @@
  \[文字]\(地址)
  
  
- \[github]\(https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=github&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&cs=3242651622,884328141&os=559736040,3126757382&simid=3366753286,110745511&pn=0&rn=1&di=134575017390&ln=1927&fr=&fmq=1519715036652_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg&rpstart=0&rpnum=0&adpicid=0)
+ \[湍流]\( https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/picture/tuanliu.jpg?raw=true )
  
- [github](https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=github&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&cs=3242651622,884328141&os=559736040,3126757382&simid=3366753286,110745511&pn=0&rn=1&di=134575017390&ln=1927&fr=&fmq=1519715036652_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg&rpstart=0&rpnum=0&adpicid=0)
+ [湍流](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/picture/tuanliu.jpg?raw=true)
  
 如果是图片或者视频的话, 在前面加一个!就可以在线显示
-![github](https://image.baidu.com/search/detail?ct=503316480&z=&tn=baiduimagedetail&ipn=d&word=github&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&cs=3242651622,884328141&os=559736040,3126757382&simid=3366753286,110745511&pn=0&rn=1&di=134575017390&ln=1927&fr=&fmq=1519715036652_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fpic.58pic.com%2F58pic%2F16%2F42%2F96%2F56e58PICAu9_1024.jpg&rpstart=0&rpnum=0&adpicid=0)
+![湍流](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/picture/tuanliu.jpg?raw=true)
  
 **更多乐趣请自己发现!!!! **
 ## 一点建议
