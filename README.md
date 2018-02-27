@@ -79,6 +79,8 @@
 如果是图片或者视频的话, 在前面加一个!就可以在线显示
 ![湍流](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/picture/tuanliu.jpg?raw=true)
  
+作业中的需要展示的图片先上传到自己的repository, 再在作业中这样在线演示. 特别是如果在以后的课程中碰到时序的问题可以直观的展示录好的视频或者动图. 这可比死板的论文炫酷多了!
+
 **更多乐趣请自己发现!!!!**
 ## 一点建议
 - 作业要写得让自己感觉到优美. 
