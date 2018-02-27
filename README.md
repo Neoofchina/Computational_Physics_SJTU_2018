@@ -81,6 +81,8 @@
  
 作业中的需要展示的图片先上传到自己的repository, 再在作业中这样在线演示. 特别是如果在以后的课程中碰到时序的问题可以直观的展示录好的视频或者动图. 这可比死板的论文炫酷多了!
 
+![](https://raw.githubusercontent.com/ShixingWang/computationalphysics_N2013301020050/master/Pictures/LiYao/wave1.gif)
+
 **更多乐趣请自己发现!!!!**
 ## 一点建议
 - 作业要写得让自己感觉到优美. 
