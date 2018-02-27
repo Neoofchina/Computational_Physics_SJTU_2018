@@ -15,6 +15,7 @@
   - 附件: 源代码
 - 每次作业的得分都会在这个repository里面公布.
 
+申请了自己的github账号后记得Fork一下, 这一个repository一下. 就是登录后, 在这个网页点一下右上角的"Fork"图标.
 ### 使用github的方法
 1. 注册github账号
 2. 建立自己针对计算物理课程的软件池（repository），命名方式computationalphysics_sjtuXXXXXXX（XXXXXXX为个人的学号）,
