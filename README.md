@@ -78,7 +78,7 @@ $\frac{1}{2}$
 如果是图片或者视频的话, 在前面加一个!就可以在线显示
 ![湍流](https://github.com/Neoofchina/computationalphysics_N2013301020048/blob/master/picture/tuanliu.jpg?raw=true)
  
-**更多乐趣请自己发现!!!! **
+**更多乐趣请自己发现!!!!**
 ## 一点建议
 - 作业要写得让自己感觉到优美. 
 - 我不会以作业的长短论**英雄**.
